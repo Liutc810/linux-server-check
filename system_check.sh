@@ -3,7 +3,7 @@
 MAIL_TO="3452626689@qq.com"
 MAIL_FROM="3452626689@qq.com"
 MAIL_SMTP_PWD="fydrcminsyczcihj"
-SMTP_SERVER="smtp.163.com"
+SMTP_SERVER="smtp.qq.com"
 SMTP_PORT=465
 
 # 巡检阈值配置
